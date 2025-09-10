@@ -2,19 +2,19 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 1) mkdir -p ~/cli_sandbox
 2) cd ~/cli_sandbox
 
-1: Create a file called "evaluate.txt".
+1: Create a file called "evaluate.txt". 
 touch evaluate.txt
 
-2: Output hidden files.
+2: Output hidden files. 
 ls -la
 
 3: Output who the active user is.
 whoami
 
-4: Output hidden files.
+4: Output hidden files. 
 ls -la
 
-5: Create a file "bay.txt" containing: "needle banish needle stock needle". Then output the sorted lines.
+5: Create a file "bay.txt" containing: "needle banish needle stock needle". Then output the sorted lines. 
 touch bay.txt
 echo  "needle banish needle stock needle" > bay.txt
 cat bay.txt
